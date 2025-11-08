@@ -13,7 +13,7 @@ This spam detector uses simple text-based features to classify example emails as
 1. Clone the repository
 2. Run: `python spam_detector.py'
 3. The program will print out the feature table, training accuracy, test accuracy, and generate a png with graphs of the assessed information
-4. You can enter your own custom email, not exactly the text of it, but the ammount of exclamation marks, the word count, and words in ALL CAPS
+4. You can enter your own custom email by entering the number of exclamation marks, the total word count, and the count of ALL CAPS words
 
 ## Sample Equations to Try
 - WIN MONEY NOW!!!
