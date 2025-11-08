@@ -15,7 +15,7 @@ This spam detector uses simple text-based features to classify example emails as
 3. The program will print out the feature table, training accuracy, test accuracy, and generate a png with graphs of the assessed information
 4. You can enter your own custom email by entering the number of exclamation marks, the total word count, and the count of ALL CAPS words
 
-## Sample Equations to Try
+## Sample Emails to Test
 - WIN MONEY NOW!!!
 - URGENT: Claim your prize!!!
 - FREE OFFER LIMITED TIME
