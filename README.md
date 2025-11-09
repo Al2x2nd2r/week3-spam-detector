@@ -20,5 +20,6 @@ This spam detector uses simple text-based features to classify example emails as
 - URGENT: Claim your prize!!!
 - FREE OFFER LIMITED TIME
 
-## What I Learned Machine Learning
+## What I Learned About Machine Learning
+
 I learned how models use patterns in data instead of hard-coded rules to make predictions. I also learned that 100% accuracy might not actually always be a good thing, It could mean that the model is simply memorizing the examples and not actually learning. Finally, I learned about Overfitting, which happens when a model preforms perfectly on what its already seen, but fails on new data. This project helped me understand why real spam filters need vast, constantly updated datasets to work as intended.
